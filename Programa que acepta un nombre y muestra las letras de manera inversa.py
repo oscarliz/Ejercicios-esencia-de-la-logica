@@ -1,0 +1,5 @@
+print("Programa que acepta un nombre y muestra las letras de manera inversa")
+print ("introduzca el texto")
+a= input ()
+print ("es: \n", a[::-1])
+input("Preciona Enter Para Salir ")
