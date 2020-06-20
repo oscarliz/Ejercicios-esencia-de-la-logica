@@ -44,3 +44,5 @@ Programa que suma dos cantidades y calcula el promedio de las mismas.
 
 programa suma dos cantidades.
 
+Ejercicios del 11-17 de la esencia de la logica
+
