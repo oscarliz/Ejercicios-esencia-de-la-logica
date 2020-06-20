@@ -1,4 +1,7 @@
 # Ejercicios-de-la-esencia-de-la-logica-en-Python-3
+========================================================================================================================================
+TODOS LOS EJERCICIOS DE ESENCIA DE LA LOGICA MAS UN PLUS ELABORADOS EN EL LENGUAJE DE PROGRAMACION PYTHON-3 ESPERO QUE LE SIRVA DE APOYO
+========================================================================================================================================
 
 Algoritmo para besar.
 
@@ -44,23 +47,23 @@ Programa que suma dos cantidades y calcula el promedio de las mismas.
 
 programa suma dos cantidades.
 
-Ejercicios del 11-17 de la esencia de la logica
+Ejercicios del 11-17 de la esencia de la logica.
 
-Programa que acepta dos numeros y determina cual es el mayor
+Programa que acepta dos numeros y determina cual es el mayor.
 
-Programa que determina si un numero es par o no
+Programa que determina si un numero es par o no.
 
 Programa que acepte una cantidad de dinero, calcule la cantidad de viajes que se pueden hacer en el metro (como lo hace en la vida real) y lo que sobra. El usuario tiene su tarjeta, plastica.
 
-Programa que acepte una cantidad de dinero, calcule la cantidad de viajes que se pueden hacer en la guagua de ITLA
+Programa que acepte una cantidad de dinero, calcule la cantidad de viajes que se pueden hacer en la guagua de ITLA.
 
-Programa que acepte el valor de a, b y c. Haga los calculos para encontrar el valor de X1 y X2 segun la formula generSi el resultado da un numero imaginario muestrelo al usuario. De lo contrario muestre el valor de X1 y X2
+Programa que acepte el valor de a, b y c. Haga los calculos para encontrar el valor de X1 y X2 segun la formula generSi el resultado da un numero imaginario muestrelo al usuario. De lo contrario muestre el valor de X1 y X2.
 
 Programa que acepte un numero, muestre el valor absoluto del mismo.
 
 Programa que acepte un numero, de mas de 2 digitos, muestre el primer y ultimo digito.
 
-Programa que acepte un correo electronico, determine si el mismo es un correo valido, (a nivel de formato).Programa que acepte un correo electronico, determine si el mismo es un correo valido, (a nivel de formato)
+Programa que acepte un correo electronico, determine si el mismo es un correo valido, (a nivel de formato).Programa que acepte un correo electronico, determine si el mismo es un correo valido, (a nivel de formato).
 
 Programa que acepte un numero de dos digitos, valide que solo sea asi. Determine si el numero es multiplo de 10.
 
@@ -73,3 +76,6 @@ Programa que acepte un numero, indique si es negativo.
 Programa que agrega datos y lo guarda en un archivo de texto. 
 
 Programa CRUD de peliculas vinculado con webapi.
+
+Restantes 1 & 2 estos comprenden el resto de ejercicios de la esencia de la logica con un menu paea elegirlo mil disculpas que no lo tengo nombrados pero tengan pasciencia y revisen hasta encontrar el deseado.
+
