@@ -74,5 +74,5 @@ Programa que agrega datos y lo guarda en un archivo de texto.
 
 Programa CRUD de peliculas vinculado con webapi.
 
-Restantes 1 & 2 estos comprenden el resto de ejercicios de la esencia de la logica con un menu paea elegirlo mil disculpas que no lo tengo nombrados pero tengan pasciencia y revisen hasta encontrar el deseado.
+Restantes 1 & 2 estos comprenden el resto de ejercicios de la esencia de la logica con un menu para su plena eleccion y mil disculpas que no los tengo nombrados pero tengan pasciencia y revisen hasta encontrar el deseado.
 
