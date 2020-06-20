@@ -1,7 +1,4 @@
-# Ejercicios-de-la-esencia-de-la-logica-en-Python-3
-========================================================================================================================================
-TODOS LOS EJERCICIOS DE ESENCIA DE LA LOGICA MAS UN PLUS ELABORADOS EN EL LENGUAJE DE PROGRAMACION PYTHON-3 ESPERO QUE LE SIRVA DE APOYO
-========================================================================================================================================
+# Todos-Los-Ejercicios-de-la-esencia-de-la-logica-mas-un-plus-en-Python-3
 
 Algoritmo para besar.
 
