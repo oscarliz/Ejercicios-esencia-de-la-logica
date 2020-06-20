@@ -69,3 +69,5 @@ Programa que acepte un numero determine si es multiplo de 7
 Programa que acepte una nota, calcule el EQ. (A,B,C o F)
 
 Programa que acepte un numero, indique si es negativo.
+
+Programa que agrega datos y lo guarda en un archivo de texto 
